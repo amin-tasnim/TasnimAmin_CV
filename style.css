@@ -1,0 +1,42 @@
+body{
+  margin:0;
+  font-family: Sans-serif;
+  background-image: url(cv.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+/* <img src="cv.jpg" alt="cv"style="width:100%"> */
+div {
+  padding-top: 20px;
+}
+
+html{
+  width:1200px;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 50rem;
+  border-radius: 10px;
+  border: 12px solid #B22222;
+  margin-top: 15px;
+  /* margin-bottom: 15px; */
+}
+
+#left {
+  width:300px;
+  float:left;
+  align-content: center;
+  padding-left: 50px;
+}
+
+#right {
+  width: 500px;
+  padding-left: 50rem;
+}
+
+img{
+  width: 60%;
+  border-radius: 50%;
+}
