@@ -1,11 +1,11 @@
 body{
   margin:0;
   font-family: Sans-serif;
-  background-image: url(cv.jpg);
+  background-image: url(img/background.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
-/* <img src="cv.jpg" alt="cv"style="width:100%"> */
+/* <img src="img/background.jpg" alt="Background"style="width:100%"> */
 div {
   padding-top: 20px;
 }
